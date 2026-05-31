@@ -18,7 +18,7 @@ Second Semester, 2025/2026
 
 Contents
 
-[Abstract](# Abstract)
+[Abstract]
 
 [Acknowledgement](#_Toc230656767)
 
