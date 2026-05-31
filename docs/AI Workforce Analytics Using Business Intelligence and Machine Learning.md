@@ -18,55 +18,55 @@ Second Semester, 2025/2026
 
 Contents
 
-[Abstract 3](#_Toc230656766)
+[Abstract](# Abstract)
 
-[Acknowledgement 4](#_Toc230656767)
+[Acknowledgement](#_Toc230656767)
 
-[Business Intelligence Project Description and Objectives 5](#_Toc230656768)
+[Business Intelligence Project Description and Objectives](#_Toc230656768)
 
-[Data Research and Acquiring Effort 6](#_Toc230656769)
+[Data Research and Acquiring Effort](#_Toc230656769)
 
-[Data Description and Understanding 7](#_Toc230656770)
+[Data Description and Understanding](#_Toc230656770)
 
-[Data Dictionary 7](#_Toc230656771)
+[Data Dictionary](#_Toc230656771)
 
-[Exploratory Data Analysis (EDA) 9](#_Toc230656772)
+[Exploratory Data Analysis (EDA)](#_Toc230656772)
 
-[Data Primary Cleaning and Transformation 10](#_Toc230656773)
+[Data Primary Cleaning and Transformation](#_Toc230656773)
 
-[Data Visualization and Insights 12](#_Toc230656774)
+[Data Visualization and Insights](#_Toc230656774)
 
-[Descriptive Statistics 12](#_Toc230656775)
+[Descriptive Statistics](#_Toc230656775)
 
-[Column Distributions 14](#_Toc230656776)
+[Column Distributions](#_Toc230656776)
 
-[Heatmap 18](#_Toc230656777)
+[Heatmap](#_Toc230656777)
 
-[Pivot Tables 19](#_Toc230656778)
+[Pivot Tables](#_Toc230656778)
 
-[Charts 21](#_Toc230656779)
+[Charts](#_Toc230656779)
 
-[Advanced Analytics and AI Modeling 30](#_Toc230656780)
+[Advanced Analytics and AI Modeling](#_Toc230656780)
 
-[Supervised Models 30](#_Toc230656781)
+[Supervised Models](#_Toc230656781)
 
-[Unsupervised Models 30](#_Toc230656782)
+[Unsupervised Models](#_Toc230656782)
 
-[Prediction 31](#_Toc230656783)
+[Prediction](#_Toc230656783)
 
-[Logistic Regression 32](#_Toc230656784)
+[Logistic Regression](#_Toc230656784)
 
-[Random Forest 34](#_Toc230656785)
+[Random Forest](#_Toc230656785)
 
-[Clustering 36](#_Toc230656786)
+[Clustering](#_Toc230656786)
 
-[Tools Research and Selection Effort 39](#_Toc230656787)
+[Tools Research and Selection Effort](#_Toc230656787)
 
-[Project Deployment Effort - Use Case 40](#_Toc230656788)
+[Project Deployment Effort - Use Case](#_Toc230656788)
 
-[Results 41](#_Toc230656789)
+[Results](#_Toc230656789)
 
-[References 41](#_Toc230656790)
+[References](#_Toc230656790)
 
 
 ---
