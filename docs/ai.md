@@ -98,8 +98,6 @@ Project Objectives
 
 # Data Research and Acquiring Effort
 
-Bottom of Form
-
 The data used in this project was obtained from a publicly available dataset on [Kaggle](https://www.kaggle.com?utm_source=chatgpt.com) and focuses on workforce analytics and the impact of Artificial Intelligence on employees and organizations. The primary objective during the data acquisition phase was to obtain data that accurately represents employee behavior, workplace performance, AI adoption, productivity, burnout, satisfaction, and attrition risk.
 
 The selected dataset contains detailed information about employee demographics, job roles, industries, company sizes, AI adoption stages, remote work environments, productivity scores, burnout levels, employee satisfaction, salary, and AI replacement concerns. The dataset was selected because it provides comprehensive information required for descriptive analytics, predictive modeling, clustering analysis, and business intelligence dashboard development.
