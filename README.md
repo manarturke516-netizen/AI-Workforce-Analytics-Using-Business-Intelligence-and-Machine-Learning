@@ -7,7 +7,7 @@
 
 # Project Overview
 
-This project applies **Business Intelligence (BI), Data Analytics, Machine Learning, and Workforce Analytics** to analyze the impact of Artificial Intelligence on employees and organizations.
+This project applies *Business Intelligence (BI), Data Analytics, Machine Learning, and Workforce Analytics* to analyze the impact of Artificial Intelligence on employees and organizations.
 
 The study investigates how factors such as:
 
@@ -20,7 +20,7 @@ The study investigates how factors such as:
 - Work Environment
 - Employee Demographics
 
-influence **Employee Attrition Risk** and workforce performance.
+influence *Employee Attrition Risk* and workforce performance.
 
 The project combines:
 
@@ -33,7 +33,7 @@ to support data-driven HR and organizational decision-making.
 
 ---
 
-# Objectives
+# [*Objectives*](docs/ai.md#business-intelligence-project-description-and-objectives)
 
 - Analyze workforce behavior and AI impact on employees.
 - Predict employee attrition risk using machine learning.
@@ -43,7 +43,7 @@ to support data-driven HR and organizational decision-making.
 
 ---
 
-# Dataset
+# [*Dataset*](docs/supply.md#data-description-and-understanding)
 
 The dataset contains workforce and AI adoption information including:
 
@@ -62,7 +62,7 @@ The dataset contains workforce and AI adoption information including:
 
 ---
 
-# Data Preprocessing
+# [*Data Preprocessing*](docs/ai.md#data-primary-cleaning-and-transformation)
 
 The following preprocessing steps were performed:
 
@@ -84,7 +84,7 @@ The following preprocessing steps were performed:
 
 ---
 
-# Exploratory Data Analysis (EDA)
+# *Exploratory Data Analysis (EDA)*
 
 EDA was performed to understand employee behavior and workforce patterns.
 
