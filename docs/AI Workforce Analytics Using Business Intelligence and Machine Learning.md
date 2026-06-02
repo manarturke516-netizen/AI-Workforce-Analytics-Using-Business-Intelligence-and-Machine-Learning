@@ -909,7 +909,11 @@ Overall, the project demonstrates how Business Intelligence and AI techniques ca
 
 # References
 
+Data: https://uopstdedu-my.sharepoint.com/:x:/g/personal/202111286_uopstd_edu_jo/IQDNwQ36ZkGkT6PPAy4zNKziAfYl_uQkDRG2fGvRDsosZUU?e=4N4YpX
 
+Power BI: https://uopstdedu-my.sharepoint.com/:u:/g/personal/202111286_uopstd_edu_jo/IQBP5y45g2xoRatdq0WpLYTQAYKjPZFF6uUh774zdrMHIM8?e=C7yh0f
+
+Notebook: https://colab.research.google.com/drive/1ZeeMtYANGi3sU06-rk3XTkAwBtTelExi?hl=en#scrollTo=mkptMedBZnEX
 
 
 
