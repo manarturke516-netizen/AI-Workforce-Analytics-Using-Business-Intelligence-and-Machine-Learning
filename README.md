@@ -1,4 +1,4 @@
-# AI Workforce Analytics Using Business Intelligence and Machine Learning
+# *AI Workforce Analytics Using Business Intelligence and Machine Learning*
 
 *Student: Manar Turke*  
 
@@ -180,7 +180,7 @@ These results indicate that employees who perceive greater AI replacement risk t
 
 ---
 
-# Machine Learning Models
+# [*Machine Learning Models*](docs/ai.md/prediction)
 
 ## Prediction Target
 
@@ -196,7 +196,7 @@ Classes:
 
 ---
 
-# Logistic Regression
+# [*Logistic Regression*](docs/ai.md/logiatic-regression)
 
 Logistic Regression was used as a baseline classification model.
 
@@ -230,7 +230,7 @@ The model successfully identified employee attrition patterns and provided inter
 
 ---
 
-# Random Forest
+# [*Random Forest*](docs/ai.md/random-forest)
 
 Random Forest was implemented to capture more complex workforce relationships.
 
@@ -254,7 +254,7 @@ The Random Forest model achieved superior performance by capturing nonlinear rel
 
 ---
 
-# Model Comparison
+# *Model Comparison*
 
 | Metric | Logistic Regression | Random Forest |
 |----------|----------|----------|
@@ -278,11 +278,11 @@ Reasons:
 
 ---
 
-# Employee Clustering
+# [*Employee Clustering*](docs/ai.md/clustering)
 
 K-Means Clustering was used to identify workforce segments.
 
-### Clustering Visualization
+### Clustering Visualization3
 
 ![Clustering](images/Picture28.png)
 
@@ -429,7 +429,7 @@ Three workforce groups were identified:
 
 ---
 
-# Conclusion
+# [*Conclusion*](docs/ai.md/results)
 
 The integration of Business Intelligence, Machine Learning, and Workforce Analytics successfully transformed workforce data into actionable organizational insights.
 
