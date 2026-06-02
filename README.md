@@ -64,6 +64,15 @@ The dataset contains workforce and AI adoption information including:
 
 # [*Data Preprocessing*](docs/ai.md#data-primary-cleaning-and-transformation)
 
+### Data Cleaning Workflow
+
+![Data Cleaning](images/Picture2.png)
+
+![Data Transformation](images/Picture3.png)
+
+![Feature Preparation](images/Picture4.png)
+
+
 The following preprocessing steps were performed:
 
 - Missing value validation
@@ -73,22 +82,14 @@ The following preprocessing steps were performed:
 - Feature selection
 - Label Encoding for categorical variables
 - Data normalization for clustering
-
-### Data Cleaning Workflow
-
-![Data Cleaning](images/Picture2.png)
-
-![Data Transformation](images/Picture3.png)
-
-![Feature Preparation](images/Picture4.png)
-
+  
 ---
 
 # *Exploratory Data Analysis (EDA)*
 
 EDA was performed to understand employee behavior and workforce patterns.
 
-## Descriptive Statistics
+## [*Descriptive Statistics*](docs/ai.md#descriptive-statistics)
 
 ![Descriptive Statistics](images/Picture5.png)
 
@@ -101,7 +102,7 @@ Key findings:
 
 ---
 
-## Numerical Feature Distributions
+## [*Numerical Feature Distributions*](docs/ai.md/column-distributions)
 
 ![Distributions](images/Picture6.png)
 
@@ -116,7 +117,7 @@ Analysis included:
 
 ---
 
-## Categorical Feature Distributions
+## *Categorical Feature Distributions*
 
 ![Categorical Distributions](images/Picture7.png)
 
@@ -132,7 +133,7 @@ Analysis included:
 
 ---
 
-## Correlation Analysis
+## [*Correlation Analysis*](docs/ai.md/heatmap)
 
 ![Heatmap](images/Picture8.png)
 
@@ -147,7 +148,7 @@ These results indicate that employees who perceive greater AI replacement risk t
 
 ---
 
-# Business Intelligence Dashboards
+# [*Business Intelligence Dashboards*](docs/ai.md/dashboard-design-&-business-insights)
 
 ## Dashboard 1: Employee Attrition & AI Impact
 
