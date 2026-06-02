@@ -43,7 +43,7 @@ to support data-driven HR and organizational decision-making.
 
 ---
 
-# [*Dataset*](docs/supply.md#data-description-and-understanding)
+# [*Dataset*](docs/ai.md#data-description-and-understanding)
 
 The dataset contains workforce and AI adoption information including:
 
