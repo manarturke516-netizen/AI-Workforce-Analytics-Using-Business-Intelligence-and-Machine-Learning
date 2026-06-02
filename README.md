@@ -440,10 +440,3 @@ The project demonstrates how AI-driven analytics can help organizations:
 - Increase workforce productivity
 - Enable data-driven HR decision-making
 
----
-
-# Author
-
-**Manar Turke**  
-University of Petra  
-Business Intelligence & Data Analytics
