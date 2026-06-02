@@ -16,58 +16,39 @@ Second Semester, 2025/2026
 
 ---
 
-Contents
+# Table of Contents
 
-[Abstract]
-
-[Acknowledgement](#_Toc230656767)
-
-[Business Intelligence Project Description and Objectives](#_Toc230656768)
-
-[Data Research and Acquiring Effort](#_Toc230656769)
-
-[Data Description and Understanding](#_Toc230656770)
-
-[Data Dictionary](#_Toc230656771)
-
-[Exploratory Data Analysis (EDA)](#_Toc230656772)
-
-[Data Primary Cleaning and Transformation](#_Toc230656773)
-
-[Data Visualization and Insights](#_Toc230656774)
-
-[Descriptive Statistics](#_Toc230656775)
-
-[Column Distributions](#_Toc230656776)
-
-[Heatmap](#_Toc230656777)
-
-[Pivot Tables](#_Toc230656778)
-
-[Charts](#_Toc230656779)
-
-[Advanced Analytics and AI Modeling](#_Toc230656780)
-
-[Supervised Models](#_Toc230656781)
-
-[Unsupervised Models](#_Toc230656782)
-
-[Prediction](#_Toc230656783)
-
-[Logistic Regression](#_Toc230656784)
-
-[Random Forest](#_Toc230656785)
-
-[Clustering](#_Toc230656786)
-
-[Tools Research and Selection Effort](#_Toc230656787)
-
-[Project Deployment Effort - Use Case](#_Toc230656788)
-
-[Results](#_Toc230656789)
-
-[References](#_Toc230656790)
-
+- [Abstract](#abstract)
+- [Acknowledgement](#acknowledgement)
+- [Business Intelligence Project Description and Objectives](#business-intelligence-project-description-and-objectives)
+  - [Project Description and Goal](#project-description-and-goal)
+  - [Project Objectives](#project-objectives)
+- [Data Research and Acquiring Effort](#data-research-and-acquiring-effort)
+- [Data Description and Understanding](#data-description-and-understanding)
+  - [Data Dictionary](#data-dictionary)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Primary Cleaning and Transformation](#data-primary-cleaning-and-transformation)
+- [Data Visualization and Insights](#data-visualization-and-insights)
+  - [Descriptive Statistics](#descriptive-statistics)
+  - [Column Distributions](#column-distributions)
+  - [Heatmap](#heatmap)
+  - [Pivot Tables](#pivot-tables)
+  - [Charts](#charts)
+  - [Dashboard Design & Business Insights](#dashboard-design--business-insights)
+- [Advanced Analytics and AI Modeling](#advanced-analytics-and-ai-modeling)
+  - [Supervised Models](#supervised-models)
+  - [Unsupervised Models](#unsupervised-models)
+  - [Prediction](#prediction)
+    - [Logistic Regression](#logistic-regression)
+    - [Random Forest](#random-forest)
+    - [Quantitative Assessment of the Models](#quantitative-assessment-of-the-models)
+    - [Model Comparison](#model-comparison)
+  - [Clustering](#clustering)
+    - [Clustering Results Interpretation](#clustering-results-interpretation)
+- [Tools Research and Selection Effort](#tools-research-and-selection-effort)
+- [Project Deployment Effort – Use Case](#project-deployment-effort--use-case)
+- [Results](#results)
+- [References](#references)
 
 ---
 
@@ -915,8 +896,6 @@ Power BI: https://uopstdedu-my.sharepoint.com/:u:/g/personal/202111286_uopstd_ed
 
 Notebook: https://colab.research.google.com/drive/1ZeeMtYANGi3sU06-rk3XTkAwBtTelExi?hl=en#scrollTo=mkptMedBZnEX
 
-
-
-
+PowerPoint : https://uopstdedu-my.sharepoint.com/:p:/g/personal/202111286_uopstd_edu_jo/IQC-Yy2eI7EASbFCPRNz4BGKAZIthhek1uhBk-mLAGvb0n4?e=ygXowM
 
 
